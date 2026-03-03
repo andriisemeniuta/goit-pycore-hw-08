@@ -14,3 +14,5 @@ class SimpleCounter:
         
 for number in SimpleCounter():
     print(number)
+    print(number)
+    print(number)
